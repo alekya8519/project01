@@ -10,16 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ef7d2e-28b2-4f80-af74-47ea9898bf3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project-ng/src/assets/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-ng/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-ng/src/styles.css" afterDir="false" />
+    <list default="true" id="99ef7d2e-28b2-4f80-af74-47ea9898bf3c" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,16 @@
       <workItem from="1610111553898" duration="5465000" />
       <workItem from="1610117761206" duration="2181000" />
       <workItem from="1610120964666" duration="21753000" />
+      <workItem from="1610178675484" duration="294000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1610178756987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610178756987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,11 +83,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="311" width="251" height="178" key="#TSLint" timestamp="1610111724312">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="552" y="311" width="251" height="178" key="#TSLint/0.30.1366.738@0.30.1366.738" timestamp="1610111724312" />
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1610178769268">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1610178769268" />
     <state x="390" y="143" width="585" height="512" key="find.popup" timestamp="1610139077516">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
